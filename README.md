@@ -50,27 +50,32 @@
 
 #### 1. What types of rooms are rented the most?
 
-   #### - Answers: When considering the number of reviews, the most favored room type is "Home/apartment,"
+   #### - Answers: 
+              When considering the number of reviews, the most favored room type is "Home/apartment,"
               with a total of over 120,000 reviews. In terms of price, "Home/apartment" is also the
               preferred choice, boasting the highest average price of $295.
 
 #### 2. Which neighborhood is the most popular?
 
-   #### - Answers: In terms of the number of reviews, Manhattan emerges as the most preferred neighborhood,
+   #### - Answers: 
+                   In terms of the number of reviews, Manhattan emerges as the most preferred neighborhood,
                    amassing a total of over 120,000 reviews. When examining neighborhood names and addresses,
                    Queens stands out as the most favored, with a total of 324 reviews.
 
 #### 3. Which neighborhood has the most listings?
 
-   #### - Answers: When considering the number of listings, Queens takes the lead in terms of quantity.
+   #### - Answers: 
+                   When considering the number of listings, Queens takes the lead in terms of quantity.
                    Furthermore, when examining Host IDs, Queens remains the neighborhood with the most listings.
 
 #### 4. Which property type generates the highest revenue?
 
-   #### - Answers: Among property types, "Home/apartment" in the Manhattan neighborhood generates the most revenue.
+   #### - Answers: 
+                   Among property types, "Home/apartment" in the Manhattan neighborhood generates the most revenue.
 
 #### 5. Are Manhattan hosts the highest rated?
-   #### - Answer: No, Brooklyn hosts receive the highest ratings.
+   #### - Answer: 
+                   Brooklyn hosts receive the highest ratings.
 
 
 #### STEP 4
